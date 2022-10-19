@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Owuoth-Lynn
 - 👀 I’m interested in building through code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any projects really that are interesting and one can learn in
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on any projects really, that are interesting and one can learn in
 - 📫 How to reach me, owouthlynn@icloud.com
 
 <!---
